@@ -2,6 +2,9 @@
 
 This workflow automates downloading files from a storage bucket, generating embeddings, and storing them in Postgres with PGVector for semantic search.
 
+<img width="1215" height="619" alt="Screenshot 2026-02-19 141944" src="https://github.com/user-attachments/assets/326acc3b-d16c-42d3-93ba-8460050245cd" />
+
+
 ---
 
 ## 📌 Overview
