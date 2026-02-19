@@ -97,3 +97,19 @@ A searchable vector database populated from bucket files, ready for:
 - Knowledge base indexing
 
 ---
+
+# ⚠️ Important Note
+
+> **This repository demonstrates an example of an existing workflow.**  
+> It is not a one-size-fits-all solution.
+
+Users are expected to:
+- Modify infrastructure components
+- Replace services as needed
+- Adjust scaling logic
+- Tune batch sizes and rate limits
+- Swap embedding providers or storage backends
+
+Adapt this workflow to match your environment, security requirements, and production standards.
+
+---
